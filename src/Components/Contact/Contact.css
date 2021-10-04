@@ -1,0 +1,14 @@
+.container{
+    display: flex;
+}
+Form{
+    width: 500px;
+    margin-left: auto;
+    margin-right: 80px;
+    margin-top: 40px;
+}
+#submit-btn{
+    float: left;
+    background-color: #54c5c5;    
+    border:none;
+}

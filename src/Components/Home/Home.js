@@ -14,7 +14,7 @@ const Home = () => {
       <div className="hero-section">
         <h1>
           Learn With
-          <br /> Us
+          <br /><span className="text-danger">"Edu More"</span>
           <br /> in A New Way
         </h1>
         <img className="hero-img" src="education.jpg" alt="images" srcset="" />

@@ -1,0 +1,40 @@
+.footer{
+    background-color: cadetblue;
+    color: white;
+    padding-top: 1px;
+    padding-bottom: 20px;
+}
+.container{
+    display: flex;
+    width: 100%;
+}
+.footer-title{
+    margin-left: auto;    
+}
+.footer-title h4{
+    font-size: 50px;
+    font-weight: 700;
+    color: rgb(139, 15, 15);
+    float: right;
+    margin-right: 70px;
+}
+.footer-link{
+    margin-left: 40px;
+    margin-right: auto;
+    float: left;
+}
+.link{
+    color: white;
+    padding-top: 20px;    
+    font-size: 20px;
+}
+.link:hover{
+    color: black;
+    font-weight: bold;
+}
+.copyright-text{
+    color: rgb(233, 219, 210);
+    padding-top: 40px;
+    font-size: 16px;
+    line-height: 30px;
+}
