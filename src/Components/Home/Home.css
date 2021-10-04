@@ -1,0 +1,28 @@
+.hero-img{
+    width:50%;
+}
+.hero-section{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.hero-section h1{
+    text-transform:capitalize;
+    font-size: 60px;
+    width: 40%;
+    letter-spacing: 3px;
+    margin-top: 80px;
+    font-weight: 800;
+}
+.services-title{
+    margin-top: 200px;
+    margin-bottom: 10px;
+}
+.feedback img{
+    height: 500px;
+    filter: blur(3px);
+    -webkit-filter: blur(3px)
+}
+.feedback h2{
+    margin-bottom:100px ;
+}

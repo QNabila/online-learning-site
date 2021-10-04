@@ -1,0 +1,32 @@
+[
+  {
+    "image": "https://cdn.dribbble.com/users/3036385/screenshots/6694433/web_development.jpg",
+    "name": "Web Development",
+    "Price": "20000",
+    "id":"1"
+  },
+  {
+    "image": "https://99designs-blog.imgix.net/blog/wp-content/uploads/2019/07/graphic_illustration_jpg_CPo56g7i.jpg?auto=format&q=60&fit=max&w=930",
+    "name": "Graphic Design",
+    "Price": "5000",
+    "id":"2"
+  },
+  {
+    "image": "https://99designs-blog.imgix.net/blog/wp-content/uploads/2019/03/What_is_digital_marketing_jpg_7ytL8TjA.jpg?auto=format&q=60&fit=max&w=930",
+    "name": "Digital Marketting",
+    "Price": "7000",
+    "id":"3"
+  },
+  {
+    "image": "https://cdn.dribbble.com/users/856748/screenshots/4301147/dribbble_uiuxdesign.io.png",
+    "name": "Ui & Ux deisgn",
+    "Price": "10000",
+    "id":"4"
+  },
+  {
+    "image": "https://i.pinimg.com/originals/cb/c7/d2/cbc7d258e07042aec99f522238535889.png",
+    "name": "App Development",
+    "Price": "20000",
+    "id":"5"
+  }
+]

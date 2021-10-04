@@ -1,0 +1,12 @@
+.header {
+  background-color: #54c5c5;
+  line-height: 70px;
+}
+
+#page-name {
+  color: white;
+  text-decoration: none;
+  padding: 10px 30px;
+  font-size: 18px;
+  letter-spacing: 2px;
+}

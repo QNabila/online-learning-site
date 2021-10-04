@@ -1,0 +1,12 @@
+.about-title{
+    background-color: #54c5c5a6;
+    height: 200px;
+}
+.about-title h2{
+   line-height: 160px;
+   font-size: 35px;
+   font-weight: 700;
+}
+p{
+    font-size: 22px;
+}
