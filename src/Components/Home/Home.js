@@ -21,7 +21,7 @@ const Home = () => {
       </div>
       <h2 className="fs-1 fw-bold services-title">Our Popular Services</h2>
       <Row xs={2} md={3} className="g-3 w-100">
-        {courses.slice(0, 3).map((course) => (
+        {courses.slice(0, 4).map((course) => (
           <Courses key={course.id} service={course}></Courses>
         ))}
       </Row>
