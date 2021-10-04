@@ -28,5 +28,18 @@
     "name": "App Development",
     "Price": "20000",
     "id":"5"
+  },
+  {
+    "image": "https://t3.ftcdn.net/jpg/03/84/96/74/360_F_384967482_KOg7YrR0dywwXQqmxZnAsiTVCLsOqu10.jpg",
+    "name": "Web design",
+    "Price": "10000",
+    "id":"6"
+  },
+  {
+    "image": "https://t3.ftcdn.net/jpg/03/84/96/74/360_F_384967482_KOg7YrR0dywwXQqmxZnAsiTVCLsOqu10.jpg",
+    "name": "App Design",
+    "Price": "12000",
+    "id":"7"
   }
+  
 ]
