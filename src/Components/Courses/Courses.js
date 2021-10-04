@@ -1,9 +1,8 @@
 import React from "react";
-import { Card, Col, Row } from "react-bootstrap";
+import { Card, Col} from "react-bootstrap";
 import "./Courses.css"
 
 const Courses = (props) => {
-  console.log(props.service.name);
   const { name, image, Price } = props.service;
   return (
     <div>
@@ -13,7 +12,7 @@ const Courses = (props) => {
             <Card.Img variant="top" src={image} className="course-img"/>
             <Card.Body>
               <Card.Title>{name}</Card.Title>
-              <Card.Text>
+              <Card.Text className="fs-5">Price:
                 {Price} tk
               </Card.Text>
             </Card.Body>
