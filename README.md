@@ -8,13 +8,7 @@
 #### Get all items
 All data are created locally.
 
-## API Reference
 
-#### Get all items
-All data are created locally.
-
-
-  
 ## Technology Used
 
 - Javascript
