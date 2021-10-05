@@ -40,6 +40,11 @@
     "name": "App Design",
     "Price": "12000",
     "id":"7"
+  },
+  {
+    "image": "https://media.istockphoto.com/vectors/female-writer-using-retro-typing-machine-vector-id1216376956?b=1&k=20&m=1216376956&s=612x612&w=0&h=rLQwTOfFCEYNEGqasXpJe0s50o0Ht_N5x6kK58ksFIs=",
+    "name": "Content Writing",
+    "Price": "6000",
+    "id":"8"
   }
-  
 ]

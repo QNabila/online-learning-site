@@ -14,7 +14,8 @@ const Home = () => {
       <div className="hero-section">
         <h1>
           Learn With
-          <br /><span className="text-danger">"Edu More"</span>
+          <br />
+          <span className="text-danger">"Edu More"</span>
           <br /> in A New Way
         </h1>
         <img className="hero-img" src="education.jpg" alt="images" srcset="" />
@@ -26,7 +27,9 @@ const Home = () => {
         ))}
       </Row>
       <div className="feedback">
-          <h2 className="fs-1 fw-bold services-title">Find Out What Our Students Say</h2>
+        <h2 className="fs-1 fw-bold services-title">
+          Find Out What Our Students Say
+        </h2>
         <Carousel>
           <Carousel.Item>
             <img
@@ -53,7 +56,12 @@ const Home = () => {
 
             <Carousel.Caption>
               <h3 className="fs-3 fw-bold text-black">Rakib</h3>
-              <p className="fs-5">Thank you for web development course. I get know experience and knowledge in using different kinds of online tools which are useful and effective. I'll use some of them during my lessons. And lots of thanks.</p>
+              <p className="fs-5">
+                Thank you for web development course. I get know experience and
+                knowledge in using different kinds of online tools which are
+                useful and effective. I'll use some of them during my lessons.
+                And lots of thanks.
+              </p>
             </Carousel.Caption>
           </Carousel.Item>
           <Carousel.Item>
@@ -66,7 +74,14 @@ const Home = () => {
             <Carousel.Caption>
               <h3 className="fs-3 fw-bold text-black">Sadia Zakir</h3>
               <p className="fs-5">
-              I found the digital marketting course to be highly relevant to anyone involved in online teaching and looking to enhance their online teaching skills,  improve student engagement and understand the value of different online tools and websites.  The instructors were experts who explained the concept with easy to understand videos and clear instructions.  It was a 3 weeks course but i was able to successfully finish it in under 10 days.  Highly recommended 
+                I found the digital marketting course to be highly relevant to
+                anyone involved in online teaching and looking to enhance their
+                online teaching skills, improve student engagement and
+                understand the value of different online tools and websites. The
+                instructors were experts who explained the concept with easy to
+                understand videos and clear instructions. It was a 3 weeks
+                course but i was able to successfully finish it in under 10
+                days. Highly recommended
               </p>
             </Carousel.Caption>
           </Carousel.Item>
